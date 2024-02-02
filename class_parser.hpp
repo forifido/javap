@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <unordered_map>
+#include <cstdint>
 
 #define POOL_DEBUG
 

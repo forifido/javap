@@ -5,7 +5,6 @@
 #include <fstream>
 #include <sstream>
 #include <arpa/inet.h>
-#include <locale>
 #include <vector>
 #include <unordered_map>
 #include <utility>
